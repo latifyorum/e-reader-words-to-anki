@@ -1,0 +1,9 @@
+# Personal export data and state (written next to the scripts by default)
+.ereader_export_state.json
+.kobo_export_state.json
+[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/
+[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9]/
+
+# Python
+__pycache__/
+*.pyc
